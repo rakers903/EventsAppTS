@@ -1,0 +1,5 @@
+.EventListContainer {
+  padding: var(--spacing-md);
+  max-width: var(--break-lg);
+  margin: 0 auto;
+}

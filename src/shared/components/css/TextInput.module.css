@@ -1,0 +1,10 @@
+.TextInput {
+  outline: none;
+  border: none;
+  border-radius: var(--radius-md);
+  padding: var(--spacing-xxs);
+}
+
+.TextInput:focus {
+  outline: 3px solid var(--brown-300);
+}
